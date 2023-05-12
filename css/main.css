@@ -16,6 +16,7 @@
 }
 
 body {
+  min-height: 100vh;
   font-family: "Merriweather", sans-serif;
   font-size: 16px;
   line-height: 1.5;
@@ -24,6 +25,7 @@ body {
 }
 
 main {
+  flex-grow: 1;
   font-family: "Merriweather", sans-serif;
 }
 
