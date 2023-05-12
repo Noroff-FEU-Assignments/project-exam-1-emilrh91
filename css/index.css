@@ -136,8 +136,6 @@ footer p {
   margin-right: 1em;
 }
 
-/*... (resten av din CSS før disse reglene) ...*/
-
 .section {
   margin-top: 1rem;
   margin-bottom: 1rem;
@@ -287,7 +285,6 @@ footer p {
   justify-content: center;
 }
 
-/* media */
 @media (max-width: 750px) {
   .hamburger {
     display: block;

@@ -64,4 +64,3 @@ Note that this is an exam, and therefore tutor support will be limited as per th
 1.	You can try adding a sort, filter, or search to the blog posts page allowing users to find the blog post more easily that they’re looking for. 
 2.	Post the data from the contact form to WordPress so you have the details saved.
 3.	Allow users to submit comments on a blog post, and post this data to WordPress
-
