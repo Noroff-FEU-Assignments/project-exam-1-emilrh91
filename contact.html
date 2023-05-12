@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Get in touch with My Project! We'd love to hear from you. Reach out with your questions, comments, or collaboration ideas.">
+  <title>Contact Legal Insights - Get in Touch with Our Team</title>
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/contact.css">
+  <script type ="module"  src="js/hamburger.js"></script>
+  <script type ="module"  src="js/contact.js"></script>
+
+</head>
+<body>
+    <nav class="navbar">
+      <ul class="nav-list">
+        <li><a href="index.html" class="nav-link">Home</a></li>
+        <li><a href="blog.html" class="nav-link">Blog</a></li>        
+        <li><a href="about.html" class="nav-link">About</a></li>
+        <li><a href="contact.html" class="nav-link">Contact</a></li>
+      </ul>
+      <button class="hamburger">&#9776;</button>
+    </nav>
+    <div class="hero">
+      <img src="images/Logo.png" alt="Legal Insights Logo" class="logo-img">
+      <h2 class="catchphrase">Legal Insights for Everyday Life.</h2>
+  
+    </div>
+  
+    <main>
+      <h2>Contact us</h2>
+    <form id="contact-form">
+      <div class="form-field">
+        <label for="subject">Subject:</label>
+        <input type="text" id="subject" name="subject">
+        <span class="error-message"></span>
+      </div>
+      <div class="form-field">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name">
+        <span class="error-message"></span>
+      </div>
+      <div class="form-field">
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email">
+        <span class="error-message"></span>
+      </div>
+      <div class="form-field">
+        <label for="message">Message (max 750 characters):</label>
+        <textarea id="message" name="message" maxlength="750"></textarea>
+        <span class="error-message"></span>
+      </div>
+      <button type="submit" id="submitButton">Submit</button>
+    </form>  
+    </main>
+    <footer>
+      <p>&copy; 2023 - Legal Insights</p>
+    </footer>
+  </body>
+  </html>
