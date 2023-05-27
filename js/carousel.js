@@ -40,7 +40,6 @@ function populateCarousel(posts) {
   });
 }
 
-
 fetchBlogPosts();
 
 const prevButton = document.querySelector('.prev-button');
@@ -59,4 +58,34 @@ function changeSlide(direction) {
 
   activeSlide.classList.remove('active');
   carouselSlides[newIndex].classList.add('active');
+}
+
+let touchStartX = null;
+let touchEndX = null;
+
+const carousel = document.querySelector('.carousel');
+
+carousel.addEventListener('touchstart', (event) => {
+    touchStartX = event.touches[0].clientX;
+}, false);
+
+carousel.addEventListener('touchmove', (event) => {
+    touchEndX = event.touches[0].clientX;
+}, false);
+
+carousel.addEventListener('touchend', () => {
+    handleGesture();
+}, false);
+
+function handleGesture() {
+    if (touchEndX !== null && touchStartX !== null) {
+        if (touchEndX > touchStartX) {
+            changeSlide(-1);
+        }
+        if (touchEndX < touchStartX) {
+            changeSlide(1);
+        }
+        touchStartX = null;
+        touchEndX = null;
+    }
 }

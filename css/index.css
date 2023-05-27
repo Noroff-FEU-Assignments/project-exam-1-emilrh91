@@ -2,7 +2,6 @@
 
 @import url("main.css");
 
-/* General styles */
 * {
   margin: 0;
   padding: 0;
@@ -11,7 +10,6 @@
 
 body {
   font-family: "Merriweather", sans-serif;
-  font-size: 16px;
   line-height: 1.5;
   color: #333;
   background-color: var(--background-color);
@@ -104,7 +102,6 @@ footer p {
   display: flex;
   justify-content: center;
   margin: 1rem;
-  
 }
 
 .profile {
@@ -116,6 +113,7 @@ footer p {
   flex-direction: column;
   padding: 40px;
   border-radius: 10px;
+  margin-bottom: 2rem;
 }
 
 .profile-picture {
@@ -149,6 +147,7 @@ footer p {
   padding-bottom: 2rem;
   background-color: var(--secondary-color);
   border-radius: 10px;
+  margin-bottom: 2rem;
 }
 
 .news-article1,

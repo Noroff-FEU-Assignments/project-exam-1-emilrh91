@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
     let currentPage = 1;
-    const postsPerPage = 6;
+    const postsPerPage = 10;
   
     async function fetchBlogPosts() {
         try {

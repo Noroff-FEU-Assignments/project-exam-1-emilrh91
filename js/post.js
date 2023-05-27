@@ -15,6 +15,8 @@ fetch(apiURL)
   function displayPost(post) {
     document.getElementById("post-title").textContent = post.title.rendered;
     document.getElementById("post-content").innerHTML = post.content.rendered;
+    document.title = post.title.rendered;
+
   
     const postContentImages = document.querySelectorAll("#post-content img");
     postContentImages.forEach((image) => {
