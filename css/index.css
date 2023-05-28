@@ -11,7 +11,6 @@
 body {
   font-family: "Merriweather", sans-serif;
   line-height: 1.5;
-  color: #333;
   background-color: var(--background-color);
 }
 
@@ -285,6 +284,10 @@ footer p {
 .button-container {
   display: flex;
   justify-content: center;
+}
+
+.carousel-button:hover {
+  color: var(--gold-color);
 }
 
 @media (max-width: 750px) {

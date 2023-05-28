@@ -32,8 +32,7 @@ main {
 .catchphrase {
   font-size: 1.8rem;
   margin: 1rem; 
-  color: var(--primary-color)
-
+  color: var(--primary-color);
 }
 
 .wp-block-verse {
