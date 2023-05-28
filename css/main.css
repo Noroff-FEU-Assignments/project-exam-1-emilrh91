@@ -29,6 +29,10 @@ main {
   font-family: "Merriweather", sans-serif;
 }
 
+.catchphrase {
+  font-size: 1.8rem;
+}
+
 .wp-block-verse {
   font-family: "Merriweather", sans-serif;
 }
