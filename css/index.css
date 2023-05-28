@@ -71,16 +71,12 @@ img {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+
 }
 
 .hero .logo-img {
   height: 250px;
   width: auto;
-}
-
-.catchphrase {
-  color: var(--gold-color);
-  font-size: 1.5em;
 }
 
 footer {
@@ -101,7 +97,8 @@ footer p {
 .profile-container {
   display: flex;
   justify-content: center;
-  margin: 1rem;
+  margin: 2rem;
+  margin-top: 4rem;
 }
 
 .profile {
