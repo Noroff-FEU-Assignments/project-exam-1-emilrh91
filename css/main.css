@@ -31,6 +31,8 @@ main {
 
 .catchphrase {
   font-size: 1.8rem;
+  margin: 1rem; 
+
 }
 
 .wp-block-verse {
@@ -143,15 +145,14 @@ img {
   justify-content: center;
   align-items: center;
 }
+
 .hero .logo-img {
   height: 250px;
   width: auto;
   padding-top: 1em;
   padding-bottom: 0.5em;
 }
-.hero .catchphrase {
-  color: var(--primary-color);
-}
+
 
 footer {
   display: flex;
