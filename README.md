@@ -21,7 +21,7 @@ Welcome to the Legal Insights website repository! This project showcases a dynam
 
 ## Deployment
 
-The website is deployed on [Netlify](https://www.netlify.com/). You can access the live site at [Legal Insights]https://legalinsights.netlify.app/
+The website is deployed on [Netlify](https://www.netlify.com/). You can access the live site at [Legal Insights](https://legalinsights.netlify.app/).
 
 ## Installation
 
