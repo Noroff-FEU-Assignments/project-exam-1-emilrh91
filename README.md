@@ -31,4 +31,4 @@ The website is deployed on [Netlify](https://www.netlify.com/). You can access t
 
 ## Feedback
 
-Feedback is always appreciated! If you encounter any issues or have suggestions for improvement, please feel free to submit an issue or a pull request. Let's collaborate and make the Legal Insights website even better!
+Feedback is always appreciated! If you encounter any issues or have suggestions for improvement, please feel free to submit an issue or a pull request.
