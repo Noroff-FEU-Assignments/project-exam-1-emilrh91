@@ -27,7 +27,6 @@ The website is deployed on [Netlify](https://www.netlify.com/). You can access t
 
 1. Clone this repository: `git clone https://github.com/Noroff-FEU-Assignments/project-exam-1-emilrh91/`
 2. Navigate into the project directory: `cd project-exam-1-emilrh91`
-3. Open the project in your preferred code editor.
 
 ## Feedback
 
