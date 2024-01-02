@@ -1,6 +1,7 @@
 # Legal Insights - Project Exam
 
 Welcome to the Legal Insights website repository! This project showcases a dynamic blog site focused on providing informative articles and practical tips on various legal topics. The website is built using HTML, CSS, and JavaScript, and utilizes WordPress as a headless CMS for content management.
+
 ![App Screenshot](./images/legalinsights.jpg)
 
 
