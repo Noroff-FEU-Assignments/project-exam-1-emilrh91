@@ -32,3 +32,7 @@ The website is deployed on [Netlify](https://www.netlify.com/). You can access t
 ## Feedback
 
 Feedback is always appreciated! If you encounter any issues or have suggestions for improvement, please feel free to submit an issue or a pull request.
+
+## Contact Me
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/emil-halvorsen-2380b3103/) for any inquiries or opportunities.
+
