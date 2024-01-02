@@ -2,13 +2,13 @@
 
 Welcome to the Legal Insights website repository! This project showcases a dynamic blog site focused on providing informative articles and practical tips on various legal topics. The website is built using HTML, CSS, and JavaScript, and utilizes WordPress as a headless CMS for content management.
 
-![App Screenshot](./images/legalinsights.jpg)
+## Screenshot
 
+![App Screenshot](./images/legalinsights.jpg)
 
 ## Live Site
 
 The website is deployed on [Netlify](https://www.netlify.com/). You can access the live site at [Legal Insights](https://legalinsights.netlify.app/).
-
 
 ## Features
 
@@ -25,7 +25,6 @@ The website is deployed on [Netlify](https://www.netlify.com/). You can access t
 - WordPress REST API
 - Hotjar
 
-
 ## Installation
 
 1. Clone this repository: `git clone https://github.com/Noroff-FEU-Assignments/project-exam-1-emilrh91/`
@@ -37,4 +36,3 @@ Feedback is always appreciated! If you encounter any issues or have suggestions 
 
 ## Contact Me
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/emil-halvorsen-2380b3103/) for any inquiries or opportunities.
-
